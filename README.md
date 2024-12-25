@@ -2,11 +2,8 @@
 
 ![Demo App](/frontend/public/screenshot-for-readme.png)
 
-[Video Tutorial on Youtube](https://youtu.be/Ycg48pVp3SU)
+About This Project:
 
-About This Course:
-
--   🚀 Project Setup
 -   🗄️ MongoDB Integration
 -   💳 Stripe Payment Setup
 -   🔐 Authentication System with JWT
